@@ -1,6 +1,4 @@
-I'm going to write something that is a modification. 
-Now I'm writing something prior to downloading something from Github with other changes 
-Now I'm adding something to the text to mess around with github forks
-This didn't work as expected. I think it's because the repo I forked this from
-Is a fork of another very old repo. I'm going to start again from scratch in 
-another directory. CASE CLOSED!!
+Hello, I'm done with work and can practice again. 
+Wizard Amigos is a cool organization who
+provided me with a tutorial long ago. Hope they are well, and maybe
+they think this is funny ;) Gracias Amigos!
