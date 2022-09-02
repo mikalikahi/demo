@@ -1,10 +1,4 @@
-I'm going to write something that is a modification. 
-Now I'm writing something prior to downloading something from Github with other changes 
-Now I'm adding something to the text to mess around with github forks
-I (my alter-ego phil-in-taipei) added a directory and practiced
-recursively deleting and restoring the directory.
-Then I accepted a pull request from alter-ego me.
-In a moment I'm going to commit this change remotely.
-Then I'm going to delete the directory and push the changes.
-Then alter-ego me will make sure that the fork is up-to-date with this original repo
-
+Hello, I'm done with work and can practice again. 
+Wizard Amigos is a cool organization who
+provided me with a tutorial long ago. Hope they are well, and maybe
+they think this is funny ;) Gracias Amigos!
