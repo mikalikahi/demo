@@ -7,3 +7,6 @@ And more now edited on local system branch<br />
 Update made on master on Github before rebase<br />
 Updated here in forked repo online and made pull request<br />
 Doing to again to practice
+My repo just realized that it is a grandchild for a very old repo
+after a lot of frustration and then hilarity!
+Who knew? Case closed. Going to start this again from scratch
